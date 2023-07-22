@@ -53,8 +53,7 @@
 
 Welcome to Capitalize Productions Streams! This plateform aim to provide a space where small budget teams can share their art to the world while reatining maximum ownership of their intellectual property. No more bending down to the big players. No more middle men! 
 
-Features include: <br />
-Browsing Film Inventory: Search for short films, full films, documentaries, animations etc. We have them all
+Browsing Film Inventory: Search for short films, full films, documentaries, animations etc. We have them all.
 
 Secure Purchase and Direct Support of Creators: At Capz Streamz nearly 100% of what you pay go to the creators we only take a small convenience fee to maintain this plateform.
 
