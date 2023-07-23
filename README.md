@@ -48,10 +48,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./assets/Website concept.jpeg" width = 275 height= 275>
+<img src="./assets/Website concept.jpeg" width = 275 height= 275 align="center" >
 
 
-Welcome to Capitalize Productions Streams! This plateform aim to provide a space where small budget teams can share their art to the world while reatining maximum ownership of their intellectual property. No more bending down to the big players. No more middle men! 
+Welcome to Capitalize Productions Streams! This plateform aim to provide a space where small budget teams can share their art to the world while retaining maximum ownership of their intellectual property. No more bending down to the big players. No more middle men! 
 
 Browsing Film Inventory: Search for short films, full films, documentaries, animations etc. We have them all.
 
