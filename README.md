@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 <a>
-  <img src="./assets/Capz-Prodz-Logo.png" width="400" height="275"> 
+  <img src="./assets/Capz-Prodz-Logo.png" width="500" height="275"> 
   </a>
 
   <h3 align="center">Capitalize Streamings</h3>
@@ -73,19 +73,6 @@ To get started with the plateform, follow the instructions below:
 
 Fork and clone this repository to your local machine and ensure you have the necessary dependencies installed.
 
-### Installation
-
-_Below is a Quick guide on how you can install and setup the app._
-
-1. Navigate to the desired directory.
-2. Clone the fork the repository using the github desktop app or with the following command in your terminal:
-    ```sh
-    git clone [repo-URL]
-    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ``` 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
