@@ -10,6 +10,7 @@
 
   <p align="center">
     This is a streaming Plateform for independent and small budget film makers. It's also a convenient inventory management application.
+    https://tru-salomon.github.io/Project-2-10.1-Module-2/
     <br />
     <br />
     <br />
